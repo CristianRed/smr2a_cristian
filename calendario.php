@@ -1,0 +1,72 @@
+<?php
+$meses=[
+		"a"=>[
+		$mes=["enero"],
+		$dias=["31"],
+		$estacion=["invierno"],
+		],
+		
+		"b"=>[
+		$mes=["febrero"],
+		$dias=["28"],
+		$estacion=["invierno"],
+		],
+		"c"=>[
+		$mes=["marzo"],
+		$dias=["31"],
+		$estacion=["primavera"],
+		],
+		"d"=>[
+		$mes=["abril"],
+		$dias=["30"],
+		$estacion=["primavera"],
+		],
+		"e"=>[
+		$mes=["mayo"],
+		$dias=["31"],
+		$estacion=["primavera"],
+		],
+		"f"=>[
+		$mes=["junio"],
+		$dias=["30"],
+		$estacion=["verano"],
+		],
+		"g"=>[
+		$mes=["julio"],
+		$dias=["31"],
+		$estacion=["primavera"],
+		],
+		"h"=>[
+		$mes=["agosto"],
+		$dias=["31"],
+		$estacion=["verano"],
+		],
+		"i"=>[
+		$mes=["septiembre"],
+		$dias=["30"],
+		$estacion=["otoño"],
+		],
+		"j"=>[
+		$mes=["octubre"],
+		$dias=["31"],
+		$estacion=["otoño"],
+		],
+		"k"=>[
+		$mes=["noviembre"],
+		$dias=["30"],
+		$estacion=["otoño"],
+		],
+		"l"=>[
+		$mes=["diciembre"],
+		$dias=["31"],
+		$estacion=["invierno"],
+		],		
+];
+/*
+echo "<pre>";
+print_r($meses);
+echo "</pre>";
+echo$meses^["a"];
+echo"<br>";
+*/
+foreach
